@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generickss", "Generickss\Ge
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary", "Dictionary\Dictionary.csproj", "{BB35A837-3C4D-4494-9640-C63F4B248A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{22DD8F4A-3435-4103-ADCB-A3AA9675AA50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{22DD8F4A-3435-4103-ADCB-A3AA9675AA50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{9E11CA0A-BC5B-4517-86DD-BFB2B22D739A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{22DD8F4A-3435-4103-ADCB-A3AA9675AA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22DD8F4A-3435-4103-ADCB-A3AA9675AA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22DD8F4A-3435-4103-ADCB-A3AA9675AA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E11CA0A-BC5B-4517-86DD-BFB2B22D739A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E11CA0A-BC5B-4517-86DD-BFB2B22D739A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E11CA0A-BC5B-4517-86DD-BFB2B22D739A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E11CA0A-BC5B-4517-86DD-BFB2B22D739A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
